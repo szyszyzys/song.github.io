@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zeyu Song"
-  avatar           : "images/avator.jpg"
+  avatar           : "avator.jpg"
   bio              : "PHD student, PENN STATE"
   location         : "State College, PA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zeyu-song-5950aa196/"
+  linkedin         : "/zeyu-song-5950aa196/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
