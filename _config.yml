@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zeyu Song"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zeyu Song"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zeyu Song"
-  avatar           : "profile.png"
+  avatar           : "images/avator.jpg"
   bio              : "PHD student, PENN STATE"
   location         : "State College, PA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zeyu-song-5950aa196/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
