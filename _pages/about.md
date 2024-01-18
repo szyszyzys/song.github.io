@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Second year PHD student at PENN STATE. My work concentrate of security and privacy of machine learning.
+Second-year Ph.D. student at Penn State, focusing on the security and privacy of machine learning. Interested in Federated Learning, Graph Neural Networks. Fortunate to be supervised by Prof. [Shagufta Mehnaz](https://smehnaz.github.io/).
